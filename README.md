@@ -1,3 +1,5 @@
+![logo](https://github.com/nayantech/nayantech/blob/main/bg.png)
+
 <h1 align="center">Hi 👋, I'm NayanKumar Gupta(Front-End Developer)</h1>
 <h3 align="center">A passionate frontend developer from India.B.Sc Information Technology | Skills In Frontend
     Developer- HTML5/CSS3/Bootstrap5/Javascript/jQuery/Angular js || "Patience is a Key element of Success - Bill Gates
