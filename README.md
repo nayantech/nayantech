@@ -1,4 +1,4 @@
-![logo](https://github.com/nayantech/nayantech/blob/main/bg.png)
+![logo](https://github.com/nayantech/nayantech/blob/main/nkg.png)
 
 <h1 align="center">Hi 👋, I'm NayanKumar Gupta(Front-End Developer)</h1>
 <h3 align="center">A passionate frontend developer from India.B.Sc Information Technology | Skills In Frontend
